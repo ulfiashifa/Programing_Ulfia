@@ -1,0 +1,1 @@
+print('Nabi Muhammad SAW bersabda, "sebaik-baik manusia adalah yang paling bermanfaat bagi sesamanya"')
